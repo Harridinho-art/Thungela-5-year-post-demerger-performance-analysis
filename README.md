@@ -25,17 +25,20 @@ By bridging the income statement to free cash flow generation, several key opera
 ### 1. Capital Allocation & Free Cash Flow
 *This symmetrical stack visualizes cash inflows versus strategic outflows, highlighting how the 2022 cash flood funded subsequent shareholder returns even as free cash flow contracted.*
 
-[👉 HIGHLIGHT THIS ENTIRE LINE AND DRAG/DROP YOUR "CAPITAL ALLOCATION" IMAGE HERE 👈]
+[<img width="605" height="361" alt="2c029f1c-f283-46a4-a69e-a9f75276324e" src="https://github.com/user-attachments/assets/1393a70e-dfd3-4c69-92c5-10e30532ce09" />
+]
 
 ### 2. Revenue vs. EBITDA Margin Squeeze
 *A dual-axis view demonstrating the divergence between top-line revenue stabilization and bottom-line margin compression.*
 
-[👉 HIGHLIGHT THIS ENTIRE LINE AND DRAG/DROP YOUR "MARGIN SQUEEZE" IMAGE HERE 👈]
+[   <img width="607" height="411" alt="570715ea-759b-4d53-8497-dd4631b472bb" src="https://github.com/user-attachments/assets/a2a66ba3-0e47-412a-aa9f-b20d55d8a702" />
+]
 
 ### 3. 2025 Cash Flow Bridge
 *A standard investment-banking waterfall chart bridging operating cash generation to the final net cash impact, specifically isolating the heavy sustaining capital expenditures (CapEx) and dividend commitments in a squeezed year.*
 
-[👉 HIGHLIGHT THIS ENTIRE LINE AND DRAG/DROP YOUR "WATERFALL" IMAGE HERE 👈]
+[  <img width="607" height="377" alt="b27af5dd-4fbb-4ea4-b43d-70dbd9f8bb35" src="https://github.com/user-attachments/assets/62d8235b-c00f-4c20-8f22-d0bdd5267b91" />
+]
 
 ---
 
@@ -48,6 +51,8 @@ By bridging the income statement to free cash flow generation, several key opera
 ---
 
 ### 📂 View the Full Project
-[👉 HIGHLIGHT THIS LINE AND DRAG/DROP YOUR EXCEL FILE HERE 👈]
+[[Haris Gill's Thungela performance evaluation.xlsx](https://github.com/user-attachments/files/27308485/Haris.Gill.s.Thungela.performance.evaluation.xlsx)
+]
 
-[👉 HIGHLIGHT THIS LINE AND DRAG/DROP YOUR PDF PRESENTATION HERE 👈]
+[[Thungela Resources 5-Year Financial Analysis.pdf](https://github.com/user-attachments/files/27308488/Thungela.Resources.5-Year.Financial.Analysis.pdf)
+]
